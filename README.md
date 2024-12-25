@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hai! Saya Denky, seorang Frontend Developer Web dengan keahlian di HTML, CSS, JavaScript, dan framework seperti React.js. Saya suka membangun antarmuka pengguna yang responsif dan estetis, serta terus belajar teknologi baru seperti Next.js. Saat ini, saya sedang mengembangkan website e-commerce dengan integrasi API.<br><br>📩 Hubungi saya di denkysudarto@gmail.com atau kunjungi portfolio saya di https://denks07.github.io/portfolio. .
+👋 Hi, I’m Denky, a UI/UX designer and frontend developer with a strong passion for technology and creativity. I specialize in crafting visually appealing and functional designs while building responsive and user-friendly interfaces. With expertise in UI/UX design and frontend development, my focus is on delivering solutions that are not only aesthetically pleasing but also aligned with user needs.
 
 
 ## 🌐 Socials:
